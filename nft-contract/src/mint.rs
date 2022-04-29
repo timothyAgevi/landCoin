@@ -37,3 +37,4 @@ impl Contract {
         refund_deposit(required_storage_in_bytes);
     }
 }
+//note near login and export NFT_CONTRACT_ID
